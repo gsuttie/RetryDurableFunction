@@ -18,7 +18,7 @@ namespace RetryDurableFunction
 
             CallInfo callinfo = new CallInfo
             {
-                Numbers = new[] { "+447712892801", "+447833327059" },
+                Numbers = new[] { "+number1", "+number2" },
                 Attempts = 3
             };
 
